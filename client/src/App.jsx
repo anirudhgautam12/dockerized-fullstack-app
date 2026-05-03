@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1>welcome broski</h1>
+      <h1>Dockerized Full Stack App</h1>
       <h2>data {message}</h2>
     </>
   )
